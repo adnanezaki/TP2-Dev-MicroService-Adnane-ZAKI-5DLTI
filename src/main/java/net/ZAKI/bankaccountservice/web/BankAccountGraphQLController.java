@@ -1,4 +1,4 @@
-package net.elfatehy.bankaccountservice.web;
+package net.ZAKI.bankaccountservice.web;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
