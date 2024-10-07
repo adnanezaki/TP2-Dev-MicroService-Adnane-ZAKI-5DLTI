@@ -1,4 +1,4 @@
-package net.elfatehy.bankaccountservice;
+package net.ZAKI.bankaccountservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
