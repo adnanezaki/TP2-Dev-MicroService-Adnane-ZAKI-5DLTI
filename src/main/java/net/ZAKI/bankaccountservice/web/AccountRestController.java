@@ -1,4 +1,4 @@
-package net.elfatehy.bankaccountservice.web;
+package net.ZAKI.bankaccountservice.web;
 
 import net.ZAKI.bankaccountservice.dto.BankAccountRequestDto;
 import net.ZAKI.bankaccountservice.dto.BankAccountResponseDto;
